@@ -60,6 +60,12 @@ height :1500px;
   height:200px;
   width: 300px;
 }
+.PictureMe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 2px;
+}
 .science{
   display: block;
   margin-left: auto;
